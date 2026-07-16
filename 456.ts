@@ -1,1 +1,6 @@
 console.log("123123123")
+
+
+
+
+console.log("Hello, World! This is a TypeScript project using version 6.0.3 with ESNext module system and ES2024 target.");
